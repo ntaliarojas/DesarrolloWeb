@@ -1,0 +1,6 @@
+[submodule "crud_javaV1"]
+	path = crud_javaV1
+	url = https://github.com/ntaliarojas/crud_javaV1.git
+[submodule "crud_.NET"]
+	path = crud_.NET
+	url = https://github.com/ntaliarojas/crud_.NET.git
